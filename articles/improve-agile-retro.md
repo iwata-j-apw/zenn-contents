@@ -35,6 +35,10 @@ published: false
 
 ### チームメンバーに聞いた感触
 
+### ケーススタディ
+
+#### 議題の候補がなくなった場合
+
 ## 参考文献
 
 https://www.shoeisha.co.jp/book/detail/9784798168791
