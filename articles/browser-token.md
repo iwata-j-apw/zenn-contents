@@ -1,3 +1,12 @@
+---
+title: "ブラウザ自動化"
+emoji: ""
+type: "tech"
+topics:
+  - ""
+published: false
+---
+
 # Claude Code × ブラウザ操作ツールのToken効率まとめ（所感ベース）
 
 ## 🧠 前提
