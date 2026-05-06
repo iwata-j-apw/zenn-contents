@@ -1,5 +1,5 @@
 ---
-title: "チームでPDCAサイクルをブンブン回せるようにレトロスペクティブ（ふりかえり）を半永久カイゼンできる仕組みを整える"
+title: "レトロスペクティブ（ふりかえり）をカイゼンしたら、チームとしてのPDCAサイクルが超速（仮）になった"
 emoji: "🔄"
 type: "idea"
 topics:
@@ -19,7 +19,7 @@ published: false
 
 
 
-## カイゼン前のふりかえり
+## カイゼン前
 
 
 
@@ -31,7 +31,7 @@ published: false
 
 
 
-## カイゼン後のふりかえり
+## カイゼン後
 
 
 
@@ -59,10 +59,25 @@ published: false
 
 
 
+### ファシリテーションで意識していること
+
+
+
+#### 感情を引き出す
+
+
+
+ネガティブを殺すとかも？？
+
+
+## ふりかえりの重要性
+
+エンジニアリング組織論への招待の内容をまとめるだけ（インプットの整理）
+
 ## 参考文献
 
 https://www.shoeisha.co.jp/book/detail/9784798168791
 
-https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf
-
 https://gihyo.jp/book/2018/978-4-7741-9605-3
+
+https://bookplus.nikkei.com/atcl/catalog/15/247300/
